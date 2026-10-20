@@ -46,4 +46,4 @@ COMMAND 4: Command ran successfully. Output included InterfaceAlias, IPv4Address
 No issues were discovered. 
 
 # Notes
-No notes.
+Private network details have been omitted from this report. 
