@@ -33,9 +33,17 @@ I entered the command "Get-NetIPConfiguration" into PowerShell to display IP con
 
 
 # Results 
+COMMAND 1: The Wi-Fi adapter has IPv4, default gateway, DNS server, and DHCP configuration fields. Further connectivity and DNS tests are needed to determine whether network access is functioning correctly. 
+
+COMMAND 2: I received replies with a 0% packet loss and response times within the 50-150 ms range. This indicates a successful IP connectivity to the destination during the test.
+
+COMMAND 3: Successfully resolved the domain and returned with one IP address. 
+
+COMMAND 4: Command ran successfully. Output included InterfaceAlias, IPv4Address, IPv4DefaultGateway, and DNSServer. 
 
 
 # Troubleshooting Analysis 
-
+No issues were discovered. 
 
 # Notes
+No notes.
