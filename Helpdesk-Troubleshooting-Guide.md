@@ -29,13 +29,13 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 4. Run the command "nslookup (insert domain)" in PowerShell to test DNS resolution.
 5. Compare the results to identify the likely area of failure.
 
-Documentation
+<ins>Documentation</ins>
 (insert text)
 
 # Scenario Two: Application Will Not Open
-Reported symptoms: a user reports that an application does not launch or displays an error.
+**Reported symptoms:** a user reports that an application does not launch or displays an error.
 
-Diagnostic Steps
+<ins>Diagnostic Steps</ins>
 1. Record the application name and exact error message.
 2. Ask whether the issue affecs one application or multiple applications.
 3. Check whether the application or multiple applications.
@@ -43,8 +43,30 @@ Diagnostic Steps
 5. Checks for available application updates or approved repair options.
 6. Re-test the application and document the result.
 
-
-Documentation
+<ins>Documentation</ins>
 (insert text)
 
 # Scenario Three: User Cannot Sign In 
+**Reported symptoms:** a user cannot sign in to their Windows computer or work account
+
+<ins>Diagnostic Steps</ins>
+1. Record the displayed error without collecting the user's password
+2. Confirm that the user is entering the intended account name.
+3. Check keyboard layout, caps lock, and number lock.
+4. Determine whether the problem affects a local account or an organization account.
+5. For an organizational account, follow the approved identity verification and account recovery process.
+6. Retest sign-in after an authorized corrective action.
+
+<ins>Documentation</ins>
+(insert text)
+
+# Incident Documentation Template
+For each support incident, record:
+* Ticket ID: use a fiction identifier for practice.
+* Date: record the data of the exercise.
+* Reported Issue: summarize the user's symptoms.
+* Impact: describe which task or service is affected.
+* Diagnostic Steps: list checks performed and their results.
+* Resolution: state what fixed the issue or note if it remains unresolved.
+* Verification: explain how the result was checked.
+* Escalation: record the next action if further support is needed.
