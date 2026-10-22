@@ -8,7 +8,7 @@ Tools: Windows settings, Windows PowerShell, built-in Windows troubleshooting to
 
 Environment: personal practice lab 
 
-# Standard Troubleshooting Process
+### Standard Troubleshooting Process
 1. Identify the user's reported problem.
 2. Ask when the issue started and whether anything changed recently (ex: upates).
 3. Record the exact error message, if any.
@@ -19,7 +19,7 @@ Environment: personal practice lab
 8. Verify whether the problem is resolved.
 9. Escalate unresolved issues with clear notes.
 
-# Scenario One: No Internet Connection
+#### Scenario One: No Internet Connection
 Reported symptoms: a user reports that their Windows computer cannot access the internet 
 
 Diagnostic Steps
@@ -32,7 +32,7 @@ Diagnostic Steps
 Documentation
 (insert text)
 
-# Scenario Two: Application Will Not Open
+##### Scenario Two: Application Will Not Open
 Reported symptoms: a user reports that an application does not launch or displays an error.
 
 Diagnostic Steps
