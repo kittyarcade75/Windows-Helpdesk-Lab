@@ -20,9 +20,9 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 9. Escalate unresolved issues with clear notes.
 
 # Scenario One: No Internet Connection
-Reported symptoms: a user reports that their Windows computer cannot access the internet 
+**Reported symptoms:** a user reports that their Windows computer cannot access the internet 
 
-Diagnostic Steps
+<ins>Diagnostic Steps</ins>
 1. Check whether Wi-Fi is enabled and the computer is connected to the expected network.
 2. Run the command "ipconfig /all" in PowerShell to inspect network configuration.
 3. Run the command "1.1.1.1" in PowerShell to test connectivity to an external IP address.
