@@ -30,7 +30,14 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 5. Compare the results to identify the likely area of failure.
 
 <ins>Documentation</ins>
-(insert text)
+1. Checked Wi-Fi status: Windows showed Wi-Fi as connectedl
+2. Checked IP configuration: command "ipconfig" was ran in PowerShell. Results showed an IPv4 address and a default gateway.
+3. Tested IP Connectivity: Pinged 1.1.1.1 in PowerShell. Replies were recieved.
+4. Tested DNS Resolution: command "nslookup github.com" was ran in PowerShell. One IP address was returned.
+
+Analysis: the tests indicated that basic IP connectivity to the tested public destination and DNS resolution for github.com were working during the exercise. These results did not establish that all websites, applications, or internet services were available. No network configurations were made. If a user continued to report a problem, the next step would be to identify the affected website or application, reproduce the issue, record any error message, and investigate the relevent browser, proxy/VPN, firewall, or service.
+
+Notes: private network details and IP addresses have been omitted from this report. 
 
 # Scenario Two: Application Will Not Open
 **Reported symptoms:** a user reports that an application does not launch or displays an error.
