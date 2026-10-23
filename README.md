@@ -4,5 +4,6 @@ This repository documents hands on IT support practice using Windows 11. It demo
 
 # Projects
 **Network Troubleshooting**
+
 [View Lab](https://github.com/kittyarcade75/Windows-IT-Helpdesk-Lab/blob/main/Network-troubleshooting.md)
 
