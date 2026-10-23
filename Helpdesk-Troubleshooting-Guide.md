@@ -73,7 +73,17 @@ No personal information or sensitive data was included in this exercise.
 6. Retest sign-in after an authorized corrective action.
 
 <ins>Documentation</ins>
-(insert text)
+1. Gathered Information: asked for the exact error message.
+2. Checked Common Causes: recommended verifying caps lock, keyboard layout, account username, and whether the password had recently changed.
+3. Selected a Safe Recovery Path: chose the organizations approved account recovery process instead of making an unauthorized password change.
+4. Planned Verification: asked the user to confirm successful sign in and access to the required resources.
+5. Planned Escalation: if access remained blocked or additional permissions were needed, would escalate through the approved support process.
+
+**Analysis**
+Completed a simulated troubleshooting decision exercise. No actual account recovery or password reset was performed. Successful recovery was not independently tested. 
+
+**Notes**
+Never include passwords, verification codes, or other authentication secrets in a support ticket or portfolio report. 
 
 # Incident Documentation Template
 For each support incident, record:
