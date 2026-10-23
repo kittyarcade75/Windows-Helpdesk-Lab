@@ -35,11 +35,9 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 3. Tested IP Connectivity: Pinged 1.1.1.1 in PowerShell. Replies were recieved.
 4. Tested DNS Resolution: command "nslookup github.com" was ran in PowerShell. One IP address was returned.
 
-**Analysis** 
-the tests indicated that basic IP connectivity to the tested public destination and DNS resolution for github.com were working during the exercise. These results did not establish that all websites, applications, or internet services were available. No network configurations were made. If a user continued to report a problem, the next step would be to identify the affected website or application, reproduce the issue, record any error message, and investigate the relevent browser, proxy/VPN, firewall, or service.
+**Analysis:** the tests indicated that basic IP connectivity to the tested public destination and DNS resolution for github.com were working during the exercise. These results did not establish that all websites, applications, or internet services were available. No network configurations were made. If a user continued to report a problem, the next step would be to identify the affected website or application, reproduce the issue, record any error message, and investigate the relevent browser, proxy/VPN, firewall, or service.
 
-**Notes** 
-private network details and IP addresses have been omitted from this report. 
+**Notes:** private network details and IP addresses have been omitted from this report. 
 
 # Scenario Two: Application Will Not Open
 **Reported symptoms:** a user reports that an application does not launch or displays an error.
@@ -57,11 +55,9 @@ private network details and IP addresses have been omitted from this report.
 2. Tested Responsiveness: entered test text into Notepad. The text appeared, and the application responded normally.
 3. Avoided unnecessary changes: no repair, reinstall, or system configuration changes were needed.
 
-**Analysis**
-Notepad launched and accepted input normally during testing. The results show that the application worked during this exercise, but they do not explain why another application might fail for a user. If the original user continued to report a problem, the next steps would be to identify the specific application, collect the exact error message, determine whether the issue affects one user or multiple users, and reproduce the failure before attempting a fix. 
+**Analysis:** Notepad launched and accepted input normally during testing. The results show that the application worked during this exercise, but they do not explain why another application might fail for a user. If the original user continued to report a problem, the next steps would be to identify the specific application, collect the exact error message, determine whether the issue affects one user or multiple users, and reproduce the failure before attempting a fix. 
 
-**Notes**
-No personal information or sensitive data was included in this exercise.
+**Notes:** No personal information or sensitive data was included in this exercise.
 
 # Scenario Three: User Cannot Sign In 
 **Reported symptoms:** a user cannot sign in to their Windows computer or work account
@@ -81,11 +77,9 @@ No personal information or sensitive data was included in this exercise.
 4. Planned Verification: asked the user to confirm successful sign in and access to the required resources.
 5. Planned Escalation: if access remained blocked or additional permissions were needed, would escalate through the approved support process.
 
-**Analysis**
-Completed a simulated troubleshooting decision exercise. No actual account recovery or password reset was performed. Successful recovery was not independently tested. 
+**Analysis:** Completed a simulated troubleshooting decision exercise. No actual account recovery or password reset was performed. Successful recovery was not independently tested. 
 
-**Notes**
-Never include passwords, verification codes, or other authentication secrets in a support ticket or portfolio report. 
+**Notes:** Never include passwords, verification codes, or other authentication secrets in a support ticket or portfolio report. 
 
 # Incident Documentation Template
 For each support incident, record:
