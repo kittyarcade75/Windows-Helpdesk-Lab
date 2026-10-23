@@ -30,7 +30,7 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 5. Compare the results to identify the likely area of failure.
 
 <ins>Documentation</ins>
-1. Checked Wi-Fi status: Windows showed Wi-Fi as connectedl
+1. Checked Wi-Fi status: Windows showed Wi-Fi as connected.
 2. Checked IP configuration: command "ipconfig" was ran in PowerShell. Results showed an IPv4 address and a default gateway.
 3. Tested IP Connectivity: Pinged 1.1.1.1 in PowerShell. Replies were recieved.
 4. Tested DNS Resolution: command "nslookup github.com" was ran in PowerShell. One IP address was returned.
