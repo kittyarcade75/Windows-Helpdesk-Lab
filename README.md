@@ -1,2 +1,8 @@
 # Windows-IT-Helpdesk-Lab
-log of all trouble-shooting exercises, powershell commands, and windows administration documentation
+**About This Project**
+This repository documents hands on IT support practice using Windows 11. It demonstrates beginner level troubleshooting, network diagnostics, technical documentation, and safe support procedures. This is to help me build practical skills for entry level IT helpdesk. 
+
+# Projects
+**Network Troubleshooting**
+[View Lab] (https://github.com/kittyarcade75/Windows-IT-Helpdesk-Lab/blob/main/Network-troubleshooting.md)
+
