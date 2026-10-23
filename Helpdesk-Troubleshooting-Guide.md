@@ -70,3 +70,12 @@ For each support incident, record:
 * Resolution: state what fixed the issue or note if it remains unresolved.
 * Verification: explain how the result was checked.
 * Escalation: record the next action if further support is needed.
+
+# Notes
+A consistent troubleshooting process prevents random unnecessary changes.
+
+Clear documentation helps another technician continue the investigation without confusion. 
+
+Security and privacy must be maintained throughout support work.
+
+Issues should be verified after a fix and escalated when they exceed the technician's authorization or skill level.  
