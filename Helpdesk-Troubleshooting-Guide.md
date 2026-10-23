@@ -51,7 +51,15 @@ This guide will document a repeatable process for diagnosing common Windows 11 s
 6. Re-test the application and document the result.
 
 <ins>Documentation</ins>
-(insert text)
+1. Launched the application: searched for Notepad using Winows search and opened it successfully.
+2. Tested Responsiveness: entered test text into Notepad. The text appeared, and the application responded normally.
+3. Avoided unnecessary changes: no repair, reinstall, or system configuration changes were needed.
+
+**Analysis**
+Notepad launched and accepted input normally during testing. The results show that the application worked during this exercise, but they do not explain why another application might fail for a user. If the original user continued to report a problem, the next steps would be to identify the specific application, collect the exact error message, determine whether the issue affects one user or multiple users, and reproduce the failure before attempting a fix. 
+
+**Notes**
+No personal information or sensitive data was included in this exercise.
 
 # Scenario Three: User Cannot Sign In 
 **Reported symptoms:** a user cannot sign in to their Windows computer or work account
